@@ -32,6 +32,10 @@ section[epub|type~="dedication"] > *{
 
 /* All letters */
 [epub|type~="z3998:letter"] header{
+	text-align: initial;
+}
+
+[epub|type~="se:letter.dateline"]{
 	text-align: right;
 }
 
