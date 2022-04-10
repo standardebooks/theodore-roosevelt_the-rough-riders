@@ -33,38 +33,39 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008112030</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-2">n80001145</meta>
+		<meta property="se:subject">Nonfiction</meta>
+		<dc:description id="description">Theodore Roosevelt chronicles his experience in the Spanish–American War, including raising the First United States Volunteer Cavalry, shipping out to Cuba, fighting Spanish forces, and witnessing disease before returning home.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;With the destruction of the &lt;i&gt;Maine&lt;/i&gt; and other events leading to the Spanish–American War, &lt;a href="https://standardebooks.org/ebooks/theodore-roosevelt"&gt;Theodore Roosevelt&lt;/a&gt; resigned as Assistant Secretary of the Navy in order to go to the front. Under Colonel Leonard Wood, Roosevelt raised and trained the First United States Volunteer Cavalry, who were quickly nicknamed the “Rough Riders.” The regiment received a surplus of volunteers, with a mix of recruits ranging from Southwestern cowboys to Ivy League scholars.&lt;/p&gt;
+			&lt;p&gt;Logistical difficulties challenged the regiment almost immediately in their transit to Cuba. Before sailing from Tampa, they were forced to leave behind four of the 12 total companies and almost all of their horses. As an officer, Roosevelt kept his horse, which he rode to lead the charge in the Battle of San Juan Hill. Roosevelt recalled the battle as “the great day of my life” and “my crowded hour.”&lt;/p&gt;
+			&lt;p&gt;After winning the war, the onset of yellow fever, malaria, and other incapacitating diseases made it imperative to return the soldiers home quickly. Along with nine generals, Roosevelt drafted and signed a “round robin” letter, which was also published nationwide to turn public attention toward returning the troops. Back home, Roosevelt initially published the work serially in &lt;i&gt;Scribner’s Magazine&lt;/i&gt; in 1899, and its popularity contributed to his rise as a national figure.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/13000</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/roughriders00roos</dc:source>
+		<meta property="se:production-notes">This production omits the muster-out roll from the appendix.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Rough_Riders</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/theodore-roosevelt_the-rough-riders</meta>
 		<dc:creator id="author">Theodore Roosevelt</dc:creator>
 		<meta property="file-as" refines="#author">Roosevelt, Theodore</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Theodore Roosevelt Jr.</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Theodore_Roosevelt</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79027239</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Fedor Encke</dc:contributor>
+		<meta property="file-as" refines="#artist">Encke, Fedor</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://de.wikipedia.org/wiki/Fedor_Encke</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Dagny Wilson</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Wilson, Dagny</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Mike Colagrosso</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Colagrosso, Mike</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://colagrosso.net</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
