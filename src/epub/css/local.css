@@ -3,6 +3,7 @@
 
 /* All dedications */
 section[epub|type~="dedication"]{
+	font-variant: small-caps;
 	text-align: center;
 }
 
@@ -13,9 +14,9 @@ section[epub|type~="dedication"] > *{
 	max-width: 80%;
 }
 
-section[epub|type~="dedication"] p:last-child{
-	font-variant: small-caps;
-	text-indent: 0;
+section[epub|type~="dedication"] > footer{
+	margin-top: 1em;
+	width: 100%;
 }
 
 @supports(display: flex){
