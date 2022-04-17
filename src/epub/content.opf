@@ -80,6 +80,9 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/appendix-a.xhtml" id="appendix-a.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/appendix-b.xhtml" id="appendix-b.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/appendix-c.xhtml" id="appendix-c.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/appendix.xhtml" id="appendix.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-1.xhtml" id="chapter-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-2.xhtml" id="chapter-2.xhtml" media-type="application/xhtml+xml"/>
@@ -108,6 +111,9 @@
 		<itemref idref="chapter-5.xhtml"/>
 		<itemref idref="chapter-6.xhtml"/>
 		<itemref idref="appendix.xhtml"/>
+		<itemref idref="appendix-a.xhtml"/>
+		<itemref idref="appendix-b.xhtml"/>
+		<itemref idref="appendix-c.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
