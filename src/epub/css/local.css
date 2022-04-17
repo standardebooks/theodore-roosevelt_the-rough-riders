@@ -72,3 +72,8 @@ footer{
 	margin-left: 0;
 	margin-right: 0;
 }
+
+#appendix-a footer p:nth-child(3){
+	text-align: initial;
+	text-indent: 0;
+}
