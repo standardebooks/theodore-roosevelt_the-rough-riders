@@ -73,7 +73,8 @@ footer{
 	margin-right: 0;
 }
 
-#appendix-a footer p:nth-child(3){
+#appendix-a footer p:nth-child(3),
+#appendix-a footer p:nth-child(5){
 	text-align: initial;
 	text-indent: 0;
 }
