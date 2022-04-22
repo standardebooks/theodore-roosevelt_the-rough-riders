@@ -78,3 +78,7 @@ footer{
 	text-align: initial;
 	text-indent: 0;
 }
+
+#appendix-b [epub|type~="se:letter.dateline"]{
+	text-align: initial;
+}
