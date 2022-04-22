@@ -123,7 +123,7 @@ section[epub|type~="epigraph"] > *{
 
 /* Poems */
 [epub|type~="z3998:verse"] p{
-	text-align: initial;
+	text-align: center;
 	text-indent: 0;
 }
 
