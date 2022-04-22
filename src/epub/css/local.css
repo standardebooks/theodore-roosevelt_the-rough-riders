@@ -73,10 +73,6 @@ footer{
 	text-indent: 0;
 }
 
-#appendix-b [epub|type~="se:letter.dateline"]{
-	text-align: initial;
-}
-
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
