@@ -145,3 +145,8 @@ section[epub|type~="epigraph"] > *{
 	text-align: center;
 	text-indent: 0;
 }
+
+#appendix-e > blockquote{
+	margin-left: 0;
+	margin-right: 0;
+}

@@ -82,6 +82,7 @@
 		<item href="text/appendix-b.xhtml" id="appendix-b.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/appendix-c.xhtml" id="appendix-c.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/appendix-d.xhtml" id="appendix-d.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/appendix-e.xhtml" id="appendix-e.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/appendix.xhtml" id="appendix.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-1.xhtml" id="chapter-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-2.xhtml" id="chapter-2.xhtml" media-type="application/xhtml+xml"/>
@@ -116,6 +117,7 @@
 		<itemref idref="appendix-b.xhtml"/>
 		<itemref idref="appendix-c.xhtml"/>
 		<itemref idref="appendix-d.xhtml"/>
+		<itemref idref="appendix-e.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
