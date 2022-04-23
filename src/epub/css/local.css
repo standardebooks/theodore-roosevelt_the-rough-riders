@@ -62,17 +62,6 @@ footer{
 }
 /* End all letters */
 
-#appendix-a > blockquote{
-	margin-left: 0;
-	margin-right: 0;
-}
-
-#appendix-a footer p:nth-child(3),
-#appendix-a footer p:nth-child(5){
-	text-align: initial;
-	text-indent: 0;
-}
-
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
@@ -138,6 +127,18 @@ section[epub|type~="epigraph"] > *{
 }
 /* End poems */
 
+/* Appendices */
+#appendix-a > blockquote{
+	margin-left: 0;
+	margin-right: 0;
+}
+
+#appendix-a footer p:nth-child(3),
+#appendix-a footer p:nth-child(5){
+	text-align: initial;
+	text-indent: 0;
+}
+
 #appendix-d > p:nth-child(2),
 #appendix-d > p:nth-child(3),
 #appendix-d > p:nth-child(4),
@@ -158,3 +159,4 @@ section[epub|type~="epigraph"] > *{
 #appendix-f p:nth-child(8){
 	text-indent: 0;
 }
+/* End appendices */
