@@ -150,3 +150,11 @@ section[epub|type~="epigraph"] > *{
 	margin-left: 0;
 	margin-right: 0;
 }
+
+#appendix-f p:nth-child(7){
+	break-before: page;
+}
+
+#appendix-f p:nth-child(8){
+	text-indent: 0;
+}
