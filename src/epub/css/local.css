@@ -160,3 +160,8 @@ section[epub|type~="epigraph"] > *{
 	text-indent: 0;
 }
 /* End appendices */
+
+span.elision{
+	margin: .5em;
+	margin-left: 3em;
+}
