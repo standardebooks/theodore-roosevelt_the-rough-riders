@@ -147,6 +147,12 @@ section[epub|type~="epigraph"] > *{
 	text-indent: 0;
 }
 
+#appendix-d > blockquote:nth-child(9) p:nth-child(4){
+	margin-top: 1em;
+	text-align: center;
+	text-indent: 0;
+}
+
 #appendix-e > blockquote{
 	margin-left: 0;
 	margin-right: 0;
