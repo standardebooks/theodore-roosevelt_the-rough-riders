@@ -165,6 +165,11 @@ section[epub|type~="epigraph"] > *{
 	text-indent: 0;
 }
 
+#appendix-f p:nth-child(2),
+#appendix-f p:nth-child(7){
+	margin-bottom: 1em;
+}
+
 #appendix-f p:nth-child(7){
 	break-before: page;
 }
