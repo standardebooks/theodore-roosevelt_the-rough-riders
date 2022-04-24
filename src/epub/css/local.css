@@ -128,7 +128,9 @@ section[epub|type~="epigraph"] > *{
 /* End poems */
 
 /* Appendices */
-#appendix-a > blockquote{
+#appendix-a > blockquote,
+#appendix-d > blockquote,
+#appendix-e > blockquote{
 	margin-left: 0;
 	margin-right: 0;
 }
@@ -161,11 +163,6 @@ section[epub|type~="epigraph"] > *{
 	margin-top: 1em;
 	text-align: center;
 	text-indent: 0;
-}
-
-#appendix-e > blockquote{
-	margin-left: 0;
-	margin-right: 0;
 }
 
 #appendix-f p:nth-child(7){
