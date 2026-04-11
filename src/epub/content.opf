@@ -56,6 +56,7 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79027239</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<dc:contributor id="artist">Fedor Encke</dc:contributor>
 		<meta property="file-as" refines="#artist">Encke, Fedor</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
