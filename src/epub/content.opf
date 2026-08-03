@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/theodore-roosevelt/the-rough-riders</dc:identifier>
 		<dc:date>2022-04-26T00:27:52Z</dc:date>
@@ -37,12 +37,12 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">n80001145</meta>
 		<meta property="schema:genre">Nonfiction</meta>
-		<dc:description id="description">The First United States Volunteer Cavalry fights in the Spanish–American War.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>The First United States Volunteer Cavalry fights in the Spanish–American War.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;With the destruction of the &lt;i&gt;Maine&lt;/i&gt; and other events leading to the Spanish–American War, &lt;a href="https://standardebooks.org/ebooks/theodore-roosevelt"&gt;Theodore Roosevelt&lt;/a&gt; resigned as Assistant Secretary of the Navy in order to go to the front. Under Colonel Leonard Wood, Roosevelt raised and trained the First United States Volunteer Cavalry, who were quickly nicknamed the “Rough Riders.” The regiment received a surplus of volunteers, with a mix of recruits ranging from Southwestern cowboys to Ivy League scholars.&lt;/p&gt;
 			&lt;p&gt;Logistical difficulties challenged the regiment almost immediately in their transit to Cuba. Before sailing from Tampa, they were forced to leave behind four of the twelve total companies and almost all of their horses. As an officer, Roosevelt kept his horse, which he rode to lead the charge in the Battle of San Juan Hill. Roosevelt recalled the battle as “the great day of my life” and “my crowded hour.”&lt;/p&gt;
 			&lt;p&gt;After winning the war, the onset of yellow fever, malaria, and other incapacitating diseases made it imperative to return the soldiers home quickly. Along with nine generals, Roosevelt drafted and signed a “round robin” letter, which was also published nationwide to turn public attention toward returning the troops. Back home, Roosevelt initially published the work serially in &lt;i&gt;Scribner’s Magazine&lt;/i&gt; in 1899, and its popularity contributed to his rise as a national figure.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/13000</dc:source>
 		<dc:source>https://archive.org/details/roughriders0000unse</dc:source>
