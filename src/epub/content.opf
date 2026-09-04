@@ -30,7 +30,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Rough Riders</dc:title>
 		<meta property="file-as" refines="#title">Rough Riders, The</meta>
-		<dc:subject id="subject-1">Spanish-American War, 1898 -- Regimental histories</dc:subject>
+		<dc:subject id="subject-1">Spanish-American War, 1898--Regimental histories</dc:subject>
 		<dc:subject id="subject-2">United States. Army. Volunteer Cavalry, 1st</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008112030</meta>
